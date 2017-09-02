@@ -5,5 +5,5 @@
   <project name="nzzane/android_device_sony_suzuran"             path="device/sony/suzuran"         remote="github" revision="cm-14.1" />
   <project name="nzzane/android_device_sony_kitakami-common"     path="device/sony/kitakami-common" remote="github" revision="cm-14.1" />
 <!--vendor-->
-  <project name="nzzane/android_vendor_sony_suzuran"             path="vendor/sony/suzuran"         remote="github" revision="cm-14.1" />
+  <project name="nzzane/android_vendor_suzuran"             path="vendor/sony/suzuran"         remote="github" revision="master" />
 </manifest>
