@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="nzzane/android_device_sony_hollyss" path="device/sony/hollyss" remote="github" />
+  <project name="nzzane/android_device_sony_holly-common" path="device/sony/holly-common" remote="github" />
+  <project name="nzzane/android_kernel_sony_holly" path="kernel/sony/holly" remote="github" />
+  <project name="nzzane/android_vendor_sony_hollyss" path="vendor/sony/hollyss" remote="github" />
+</manifest>
