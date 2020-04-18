@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="nzzane/android_device_nokia_PLE"              path="device/nokia/PLE"          remote="github" revision="master" />
+  <project name="nzzane/android_device_nokia_PLE"              path="device/nokia/PLE"          remote="github" revision="lineage-16.0" />
   <project name="nzzane/vendor_nokia_ple"              path="vendor/nokia/PLE"          remote="github" revision="master" />
     <project name="nzzane/android_device_nokia_msm8937-common"              path="device/nokia/msm8937-common"          remote="github" revision="lineage-16.0" />
 </manifest>
