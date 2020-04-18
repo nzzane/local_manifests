@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="nzzane/android_kernel_nokia_msm8937"                 path="kernel/nokia/msm8937"         remote="github" revision="master" />
+  <project name="nzzane/android_kernel_nokia_msm8937"                 path="kernel/nokia/PLE"         remote="github" revision="lineage-16.0" />
 </manifest>
